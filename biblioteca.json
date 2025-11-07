@@ -1,0 +1,6 @@
+[
+    {"libro_id": "001", "titulo": "Cien Años de Soledad", "prestado_a": "Cristian Rodriguez"},
+    {"libro_id": "002", "titulo": "El Principito", "prestado_a": "Catalina Riveros"},
+    {"libro_id": "003", "titulo": "Aventuras de un niño de la calle", "prestado_a": "Daniel Caceres"},
+    {"libro_id": "004", "titulo": "La Odisea", "prestado_a": "Karen Rivera"}
+]
